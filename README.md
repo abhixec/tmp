@@ -5,3 +5,4 @@ Inteded for testing purposes
 Line for a new commit
 New line
 New line
+New line
