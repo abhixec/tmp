@@ -6,3 +6,4 @@ Line for a new commit
 New line
 New line
 New line
+Care for this line?
